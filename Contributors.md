@@ -10698,6 +10698,7 @@ Stephan Sharpe
 - [Vivi](https://github.com/vshirokova)
 - [akalive](https://github.com/akalive)
 - [xichao chen](https://github.com/chenshaw1995)
+- [Adel](https://github.com/adelbit)
 - [Jamie Cox](https://github.com/rbcox)
 - [Kaaylim](https://github.com/kaaylim)
 - [Ashton](https://github.com/shepparda13)
